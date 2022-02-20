@@ -39,3 +39,5 @@ complete. Original recipe -
 8.  Slice your bananas
 
 9.  Add sliced bananas and maple syrup to plate, enjoy!
+
+Back to [the home page](index.md)
