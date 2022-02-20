@@ -8,4 +8,4 @@ Your loving son,
 
 *Mason Gelletly*
 
-Back to [the home page](index.html)
+Back to [the home page](index.md)
