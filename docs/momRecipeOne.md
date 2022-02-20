@@ -47,3 +47,5 @@ https://themodernproper.com/migas
 9.  Stir the contents of the skillet for 2-3 minutes
 
 10. Place contents of skillet on plate, enjoy!
+
+Back to [the home page](index.md)
