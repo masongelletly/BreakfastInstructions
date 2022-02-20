@@ -34,3 +34,5 @@ minutes to complete. Original recipe -
 6.  Place sliced avocado on the toast
 
 7.  Place cherry tomatoes on the toast, enjoy!
+
+Back to [the home page](index.md)
