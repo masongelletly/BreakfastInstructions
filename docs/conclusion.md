@@ -7,3 +7,5 @@ ready to start the day! I love you very much, have a great day :)
 Your loving son,
 
 *Mason Gelletly*
+
+Back to [the home page](index.html)
