@@ -5,3 +5,5 @@ will guide you through making breakfast for you and my roommate Armando.
 Both you and Armando will have two options for breakfast (Armando is
 vegan). Choose your recipe wisely and remember that **safety is
 paramount** in my kitchen!
+
+Back to [the home page](index.md)
